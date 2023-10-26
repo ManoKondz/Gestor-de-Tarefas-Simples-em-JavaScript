@@ -20,10 +20,3 @@ Este é um script JavaScript básico para gerenciar uma lista de tarefas. Ele of
    - Observe as tarefas com menos de 1 hora, a lista completa com nome e duração, e a soma total das durações.
 
 ---
-
-## Como Usar
-
-1. **Clone o Repositório:**
-   ```bash
-   git clone https://github.com/seu-usuario/gestor-tarefas-js
-   cd gestor-tarefas-js
